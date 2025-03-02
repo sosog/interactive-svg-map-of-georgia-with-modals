@@ -5,12 +5,12 @@ const regions = {
     gu: { title: "Guria" },
     im: { title: "Imereti" },
     ka: { title: "Kakheti" },
-    sk: { title: "Samegrelo-Zemo Svaneti" },
-    kk: { title: "Kakheti" },
+    sk: { title: "Shida Kartli" },
+    kk: { title: "Kvemo Kartli" },
     mm: { title: "Mtskheta-Mtianeti" },
-    rl: { title: "Rach'a-Lechkhumi-Kvemo Svaneti" },
+    rl: { title: "Rach'a-Lechkhumi" },
     sj: { title: "Samtskhe-Javakheti" },
-    sz: { title: "Shida Kartli" },
+    sz: { title: "Samegrelo-Zemo Svaneti " },
     tb: { title: "Tbilisi" },
 };
 

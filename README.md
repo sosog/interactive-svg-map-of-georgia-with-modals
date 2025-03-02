@@ -2,6 +2,9 @@
 
 This is a web-based interactive tool that displays a detailed SVG map of Georgia. Each region on the map is clickable and responds to user interactions: when you hover over a region, it highlights, and clicking on it opens a modal window with additional information about that region. The map is built using modern web technologies (HTML, CSS, and ES6 JavaScript), providing users with a seamless and engaging experience.
 
+![Screenshot](images/screenshot.png)
+
+
 ## Features
 
 - **Interactive Regions:**  
